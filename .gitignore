@@ -1,0 +1,7 @@
+"train/images/" 
+"val/images/" 
+"runs/" 
+"__pycache__/" 
+"*.pt" 
+"*.cache" 
+"*.zip" 
