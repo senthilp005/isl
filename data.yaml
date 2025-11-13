@@ -1,8 +1,12 @@
-train: D:\project\train\images
-val: D:\project\train\images  # you can later split for val set
+# ISL Dataset Configuration
+path: D:\project
+train: train/images
+val: val/images
 
-nc: 36  # number of classes (0–9 + A–Z)
+# Number of classes
+nc: 36
 
+# Class names
 names:
   0: '0'
   1: '1'
